@@ -1,4 +1,4 @@
-package Outwards.Tests.EndToEnd;
+package Tests;
 
 import Functions.MQDBConnections.DBConstants;
 import Functions.MQDBConnections.MQConnections;
@@ -24,7 +24,7 @@ import static Functions.Utils.Constant.*;
 import static com.sun.tools.xjc.reader.Ring.add;
 
 
-public class EndToEnd_TestFlow extends BaseClass {
+public class EndToEnd extends BaseClass {
 
     static String ExpectedLog="";
     public static String CaseStatus ="";
