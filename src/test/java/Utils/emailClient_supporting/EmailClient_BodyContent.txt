@@ -1,0 +1,1 @@
+<p>Good day,</p><br />	This is an automated message from the RTGS Strategic Outwards test team.<br /><br /> ~testType~ Automation scripts have been executed by ~executedBy~ and has testResult. Please see attached file for detailed results. <br /><br /><br /> Regards,<br /> ~testTeamName~ Test Team.</p>
